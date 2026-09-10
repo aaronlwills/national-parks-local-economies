@@ -18,8 +18,8 @@ Rural gateway counties showed somewhat higher average tourism dependence than ur
 
 ## Files
 
-- `National_Park_Project.ipynb` — full data cleaning, spatial analysis, mapping, and regression workflow
-- `final_report.pdf` — full written report with methodology, results, discussion, and limitations
+- [Jupyter Notebook](National_Park_Project.ipynb) — Full data cleaning, spatial analysis, mapping, and regression workflow
+- [Full Research Report](National%20Park%27s%20Effect%20on%20Local%20Economies.pdf) — Complete methodology, results, discussion, and limitations
 
 ## Data Sources
 
